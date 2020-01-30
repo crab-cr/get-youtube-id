@@ -1,5 +1,7 @@
 # get-youtube-id
 
+[![Build Status](https://travis-ci.org/iomcr/get-youtube-id.svg?branch=master)](https://travis-ci.org/iomcr/get-youtube-id)
+
 stole RegEx from https://gist.github.com/niquepa/4c59b7d52a15dde2367a
 
 ## Installation
