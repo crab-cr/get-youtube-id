@@ -1,0 +1,9 @@
+name: get-youtube-id
+version: 0.1.0
+
+authors:
+  - IOM <>
+
+crystal: 0.32.1
+
+license: MIT
