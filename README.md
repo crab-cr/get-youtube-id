@@ -26,7 +26,7 @@ puts Iom::GetYoutubeId::get_youtube_id "https://www.youtube.com/watch?v=dQw4w9Wg
 # "dQw4w9WgXcQ"
 
 # get youtube_id as Set{String} from a string where you expect 0 or more youtube ids.
-puts Iom::GetYoutubeId::get_youtube_id "string with list of videos https://www.youtube.com/watch?v=dQw4w9WgXcQ https://www.youtube.com/watch?v=qEkB_SQXl20"
+puts Iom::GetYoutubeId::get_youtube_ids "string with list of videos https://www.youtube.com/watch?v=dQw4w9WgXcQ https://www.youtube.com/watch?v=qEkB_SQXl20"
 # Set{"dQw4w9WgXcQ","qEkB_SQXl20"}
 ```
 
